@@ -1,0 +1,53 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: rgb(229, 255, 127);
+}
+.home{
+    border: 2px solid rebeccapurple;
+    background-color: lightblue;
+    color:rgb(0, 115, 255);
+    text-align: center;
+}
+h1{
+    border-left:2px solid purple;
+    border-top: 2px solid purple;
+    border-right:2px solid purple;
+    background-color: rebeccapurple;
+    color: salmon;
+}
+
+img{
+    width:300px;
+    margin: 20px auto;
+}
+.Des{
+    border: 2px dashed rebeccapurple;
+    background-color: light rebeccapurple;
+    color: rgb(0, 64, 255);
+}
+p{
+    font-size:5px;
+    border:2px dashed yellow;
+    background-color: lightgray;
+    color: darkcyan
+}
+h3{
+    border: 2px solid rebeccapurple;
+    background-color: lightsteelblue;
+    color:aqua
+}
+.ing{
+    background-color: lightgreen;
+    border: 1px solid black;
+    color:green;
+}
+.st{
+    border: 1px solid black;
+    background-color: lightsteelblue;
+    color: blueviolet
+}
